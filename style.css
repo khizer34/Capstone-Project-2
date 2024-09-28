@@ -1,0 +1,62 @@
+.MK{
+    
+    text-align: center;
+    font-style: italic;
+  font-size: 200%;
+  background-color: rgba(139, 218, 208, 0.946);
+  border: solid 10px rgba(80, 91, 210, 0.822);
+    }
+
+    
+    .pic{
+      border-radius: 100px;
+    }
+
+    .info{
+      text-align: center;
+      font-size: 150%;
+      background-color: rgb(227, 201, 224);
+      border: solid 10px rgba(233, 226, 35, 0.822);
+     
+    }
+
+    .ed{
+      font-size: 200%;
+      font-style: oblique;
+    }
+
+    .work{
+      text-align: center;
+      font-size: 150%;
+      background-color: rgb(166, 237, 164);
+      border: solid 10px rgba(4, 116, 17, 0.822);
+      
+    }
+
+    .skills{
+     border: solid 10px rgba(237, 8, 134, 0.735);
+     text-align: center;
+     font-size: 150%;
+     background-color: rgba(223, 243, 39, 0.741);
+      
+    }
+
+    .myself{
+      text-align: center;
+      font-size: 150%;
+   
+     border: solid 10px rgb(73, 86, 200);
+    }
+
+    .btn{
+      background-color: #11cdd4;;
+      color: white;
+      font-size: 30px;
+      border-radius: 8px;
+      padding: 20px;
+      margin: 30px;
+    }
+
+    
+    
+   
